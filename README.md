@@ -180,7 +180,7 @@ Sold](images/Sale%20Price%20vs%20Units%20Sold.png)
 
 This visualization shows how units sold vary across publishing years.
 
-![Units Sold Trend](images/Units%20Sold%20Trend.png)
+![Units Sold Trend](images/Units%20Sold%20by%20Author%20Rating.png)
 
 ------------------------------------------------------------------------
 
