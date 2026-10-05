@@ -104,7 +104,7 @@ This scatter plot explores the relationship between the average rating
 of a book and the number of ratings received.
 
 ![Average Rating vs Rating
-Count](visualizations/Average%20Rating%20vs%20Rating%20Count.png)
+Count](images/Average%20Rating%20vs%20Rating%20Count.png)
 
 ------------------------------------------------------------------------
 
