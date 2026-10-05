@@ -114,7 +114,7 @@ This box plot compares the distribution of rating counts across
 different book genres and highlights differences in reader engagement.
 
 ![Rating Count by
-Genre](visualizations/Book%20Rating%20Count%20by%20Genre.png)
+Genre](images/Book%20Rating%20Count%20by%20Genre.png)
 
 ------------------------------------------------------------------------
 
@@ -123,7 +123,7 @@ Genre](visualizations/Book%20Rating%20Count%20by%20Genre.png)
 This visualization shows the number of books available across different
 genres.
 
-![Genre Distribution](visualizations/Genre%20Distribution.png)
+![Genre Distribution](images/Genre%20Distribution.png)
 
 ------------------------------------------------------------------------
 
@@ -132,7 +132,7 @@ genres.
 This chart compares authors based on their total gross sales and
 highlights authors with comparatively higher sales performance.
 
-![Gross Sales by Author](visualizations/Gross%20Sales%20by%20Author.png)
+![Gross Sales by Author](images/Gross%20Sales%20by%20Author.png)
 
 ------------------------------------------------------------------------
 
@@ -141,7 +141,7 @@ highlights authors with comparatively higher sales performance.
 This visualization shows the distribution of books across different
 languages in the dataset.
 
-![Language Distribution](visualizations/Language%20Distribution.png)
+![Language Distribution](images/Language%20Distribution.png)
 
 ------------------------------------------------------------------------
 
@@ -151,7 +151,7 @@ This chart shows how books are distributed across publishing years and
 helps identify changes in publishing activity over time.
 
 ![Publishing Year
-Distribution](visualizations/Publishing%20Year%20Distribution.png)
+Distribution](images/Publishing%20Year%20Distribution.png)
 
 ------------------------------------------------------------------------
 
@@ -162,7 +162,7 @@ categories to explore the relationship between author rating and sales
 performance.
 
 ![Units Sold by Author
-Rating](visualizations/Units%20Sold%20by%20Author%20Rating.png)
+Rating](images/Units%20Sold%20by%20Author%20Rating.png)
 
 ------------------------------------------------------------------------
 
@@ -172,7 +172,7 @@ This scatter plot explores the relationship between sale price and the
 number of units sold.
 
 ![Sale Price vs Units
-Sold](visualizations/Sale%20Price%20vs%20Units%20Sold.png)
+Sold](images/Sale%20Price%20vs%20Units%20Sold.png)
 
 ------------------------------------------------------------------------
 
@@ -180,7 +180,7 @@ Sold](visualizations/Sale%20Price%20vs%20Units%20Sold.png)
 
 This visualization shows how units sold vary across publishing years.
 
-![Units Sold Trend](visualizations/Units%20Sold%20Trend.png)
+![Units Sold Trend](images/Units%20Sold%20Trend.png)
 
 ------------------------------------------------------------------------
 
